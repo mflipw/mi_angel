@@ -1,0 +1,26 @@
+{
+  "name": "mi_angel",
+  "version": "0.0.1",
+  "description": "a noble price console.log() for angel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mflipw/mi_angel.git"
+  },
+  "keywords": [
+    "ascii-art"
+  ],
+  "author": "Marvin Wiegand <mflipw@users.noreply.github.com> (https://github.com/mflipw)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mflipw/mi_angel/issues"
+  },
+  "homepage": "https://github.com/mflipw/mi_angel#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
